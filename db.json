@@ -1,25 +1,43 @@
 {
-  "user": [
-    
-    
-        {
-          "id": 1,
-          "username": "lololex",
-          "deck": [1, 25, 36, 588, 87]
-        },
-        {
-          "id": 2,
-          "username": "wajooo",
-          "deck": [6, 10, 25, 190, 90]
-        },
-        {
-          "id": 3,
-          "username": "Kahomm",
-          "deck": [100, 0, 0, 40, 57]
-        }
-      
-    
+  "users": [
+    {
+      "id": 1,
+      "username": "Mondongo",
+      "deck": [
+        9,
+        25,
+        36,
+        544,
+        87
+      ]
+    },
+    {
+      "id": 2,
+      "username": "Juan",
+      "deck": [
+        11,
+        252,
+        364,
+        54,
+        8
+      ]
+    },
+    {
+      "id": 3,
+      "username": "Las Locas",
+      "deck": [
+        17,
+        5,
+        39,
+        514,
+        333
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "class": "Epic"
+    }
   ]
- 
 }
-
